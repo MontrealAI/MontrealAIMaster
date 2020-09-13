@@ -1,4 +1,4 @@
-# Montreal.AI Master : The Apollo Program for AGI
+# Montreal.AI Master
 
 ## The Grand Challenge for AI Research
 
